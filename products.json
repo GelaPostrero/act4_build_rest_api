@@ -1,0 +1,16 @@
+{
+    "a19b15c6-b6b2-41c1-a545-e1cc9f4c2a50": {
+        "id": "a19b15c6-b6b2-41c1-a545-e1cc9f4c2a50",
+        "name": "soap",
+        "price": 50,
+        "quantity": 50,
+        "image": "image.png"
+    },
+    "24c13411-e424-408f-9bdd-27990cc389d4": {
+        "id": "24c13411-e424-408f-9bdd-27990cc389d4",
+        "name": "bed sheet",
+        "price": 200,
+        "quantity": 100,
+        "image": "image.png"
+    }
+}

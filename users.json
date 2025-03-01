@@ -1,0 +1,20 @@
+{
+    "b93e7cf1-a9cb-4445-8e83-b3cf96f15571": {
+        "id": "b93e7cf1-a9cb-4445-8e83-b3cf96f15571",
+        "username": "sworld",
+        "email": "world@example.com",
+        "password": "$2b$10$iVhUZdA5.kfXje22Q22c/Ow5rCdRq2.GZnJxwS9DUe/Ar52U2s6Iu"
+    },
+    "4bc8736a-5569-47d5-8f71-a987937fb55d": {
+        "id": "4bc8736a-5569-47d5-8f71-a987937fb55d",
+        "username": "chili",
+        "email": "chili@example.com",
+        "password": "$2b$10$i.HhxQVTfgdADs2BGtUbEOT6pTHuHFjrCWBdgskzrdw2gGYzt.WDu"
+    },
+    "0546ed7b-85f4-4dc0-960d-d8066892ceb3": {
+        "id": "0546ed7b-85f4-4dc0-960d-d8066892ceb3",
+        "username": "ako",
+        "email": "ako@gmail.com",
+        "password": "$2b$10$h1FBDhMXgmNo./jeZjy/lexvwFIonbU8KewLR6IMKgp4bBGc7FFdS"
+    }
+}
